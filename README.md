@@ -5,6 +5,7 @@
 
 Dette er et one-page template, hvor man laver en app med en external API vha. jQuery. denne app bruger de følgende frameworks og boilerplates:
 
+Jeg her derefter taget denne stock fil, og lagt mit eget twist på det, hvor jeg så har tilføjet nogle forskellige  API'er til opgaven.
 
 <ul>
 <li><a href="https://github.com/toddmotto/public-apis">Some public API with little or no authentication</a></li>
@@ -15,3 +16,4 @@ Dette er et one-page template, hvor man laver en app med en external API vha. jQ
 
 Der er brugt Css of JavaScript til denne opgave
       
+https://marc7355.github.io/api_one_page_template/
